@@ -7,5 +7,5 @@ router.post('/perfil',addPerfil);
 router.put('/perfil/:id',updatePerfil);
 router.get('/perfil/:id',getByIdPerfil);
 router.delete('/perfil/:id',deletePerfil);
-
+//
 export default router
